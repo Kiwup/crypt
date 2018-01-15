@@ -1,7 +1,7 @@
-# Crypt
+# @rlvt/crypt
 
 [![JavaScript Style Guide](https://cdn.rawgit.com/standard/standard/master/badge.svg)](https://github.com/standard/standard)
-[![CircleCI](https://circleci.com/gh/Kiwup/crypt.svg?style=svg)](https://circleci.com/gh/Kiwup/crypt)
+[![CircleCI](https://circleci.com/gh/Kiwup/crypt.svg?style=shield)](https://circleci.com/gh/Kiwup/crypt)
 
 ## How to
 This package provide 2 functions, ```encrypt()``` and ```decrypt()```

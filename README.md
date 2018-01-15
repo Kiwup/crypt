@@ -1,6 +1,8 @@
 # @rlvt/crypt
 
-[![JavaScript Style Guide](https://cdn.rawgit.com/standard/standard/master/badge.svg)](https://github.com/standard/standard)
+[![JavaScript Style Guide](https://cdn.rawgit.com/standard/standard/master/badge.svg)](https://github.com/standard/standard)  
+
+[![npm](https://img.shields.io/npm/dm/localeval.svg)](https://www.npmjs.com/package/@rlvt/crypt)
 [![CircleCI](https://circleci.com/gh/Kiwup/crypt.svg?style=shield)](https://circleci.com/gh/Kiwup/crypt)
 
 ## How to

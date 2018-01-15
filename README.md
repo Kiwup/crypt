@@ -4,7 +4,14 @@
 [![CircleCI](https://circleci.com/gh/Kiwup/crypt.svg?style=shield)](https://circleci.com/gh/Kiwup/crypt)
 
 ## How to
-This package provides 2 functions, ```encrypt()``` and ```decrypt()```
+This package provides 2 functions, 
+```javascript 
+encrypt(input: String, password: String)
+``` 
+and  
+```javascript
+decrypt(input: String, password: String)
+```
 
 ```javascript
 const assert = require('assert')

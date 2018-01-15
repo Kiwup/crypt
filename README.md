@@ -1,8 +1,7 @@
 # Crypt
 
 [![JavaScript Style Guide](https://cdn.rawgit.com/standard/standard/master/badge.svg)](https://github.com/standard/standard)
-[![CircleCI](https://circleci.com/gh/Kiwup/tracker-service/tree/master.svg?style=shield&circle-token=)](https://circleci.com/gh/Kiwup/crypt/tree/master)
-
+[![CircleCI](https://circleci.com/gh/Kiwup/crypt.svg?style=svg)](https://circleci.com/gh/Kiwup/crypt)
 
 ## How to
 This package provide 2 functions, ```encrypt()``` and ```decrypt()```

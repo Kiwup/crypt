@@ -1,5 +1,5 @@
 {
-  "name": "y",
+  "name": "@rlvt/crypt",
   "version": "1.0.0",
   "description": "Crypt functions (encrypt/decrypt)",
   "main": "index.js",
@@ -18,7 +18,7 @@
     "encrypt",
     "decrypt"
   ],
-  "author": "Reelevant",
+  "author": "Reelevant Dev Team <dev@reelevant.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/Kiwup/crypt/issues"

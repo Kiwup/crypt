@@ -1,0 +1,29 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "Crypt functions (encrypt/decrypt)",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kiwup/crypt.git"
+  },
+  "keywords": [
+    "reelevant",
+    "crypt",
+    "encrypt",
+    "decrypt"
+  ],
+  "author": "Reelevant",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Kiwup/crypt/issues"
+  },
+  "homepage": "https://github.com/Kiwup/crypt#readme",
+  "devDependencies": {
+    "nyc": "11.4.1",
+    "standard": "10.0.3"
+  }
+}

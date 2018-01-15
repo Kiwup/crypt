@@ -4,7 +4,9 @@
   "description": "Crypt functions (encrypt/decrypt)",
   "main": "index.js",
   "scripts": {
-    "test": "standard"
+    "pretest": "standard",
+    "test": "nyc tape 'tests/**/*.test.js'",
+    "posttest": "nyc report --reporter=lcov"
   },
   "repository": {
     "type": "git",
@@ -24,6 +26,7 @@
   "homepage": "https://github.com/Kiwup/crypt#readme",
   "devDependencies": {
     "nyc": "11.4.1",
-    "standard": "10.0.3"
+    "standard": "10.0.3",
+    "tape": "4.8.0"
   }
 }
